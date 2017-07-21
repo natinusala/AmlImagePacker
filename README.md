@@ -1,7 +1,7 @@
 # AmlImagePacker
 Tool which packs a Amlogic ROM into a burnable IMG file.
 
-Allows you to quickly pack a level 1 ROM (`./tmp/level1` folder) into an IMG without using Amlogic Customization Tool.
+Allows you to quickly pack a level 1 ROM (`./tmp/level1` folder) into an IMG without using the Amlogic Customization Tool.
 
 **Warning** : it only takes the `level1` folder and packs it into a burnable IMG file ! It **doesn't** (yet) update the `level1` partition files with the content in the `level2` folder. 
 
