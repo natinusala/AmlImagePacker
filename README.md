@@ -1,5 +1,5 @@
 # AmlImagePacker
-Tool which packs a Amlogic ROM into a burnable IMG file.
+Tool which packs a Amlogic ROM into a burnable IMG file. **Not working for Android 7+**
 
 Download : [https://github.com/natinusala/AmlImagePacker/releases](https://github.com/natinusala/AmlImagePacker/releases)
 
